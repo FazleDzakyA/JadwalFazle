@@ -1,0 +1,86 @@
+body{
+    background: url(wp13376777-purple-one-piece-desktop-wallpapers.jpg)
+    no-repeat fixed;
+    background-size: cover;
+}
+.container{
+    display: flex;
+}
+.cont-img img{
+    width: 120px;
+    height: 120px;
+    background-color: goldenrod;
+    border-radius: 65%;
+}
+
+.hitam{
+    width: 30%;
+    background: rgb(0,0,0,0.9);
+    border: 1px solid black;
+    border-radius:40px 0px 0px 40px;
+}
+
+.putih{
+    width: 70%;
+    background: rgb(255, 255, 255, 0.9);
+    border: 1px solid white;
+    border-radius:0px 40px 40px 0px;
+   
+}
+
+.contact-div {
+color: white;
+font-size: 20px;
+border: 2px dashed goldenrod;
+padding: 10px 20px;
+border-radius: 20px;
+}
+
+.cont-img {
+margin: 26px;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.cont-contact {
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+.cont-perkenalan {
+display: flex;
+gap: 16px;
+margin: 8px 0px;
+color: white;
+}
+
+.cont-gold {
+    background-color: goldenrod;
+    width: 35%;
+    text-align: center;
+    border-radius: 0 26px 26px 0 ;
+}
+
+.text-div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+
+.Lengkap {
+    background-color: goldenrod;
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+
+.cont-black {
+    background-color: black;
+    color: white;
+    width: 35%;
+    text-align: center;
+    border-radius: 0 26px 26px 0 ;
+}
